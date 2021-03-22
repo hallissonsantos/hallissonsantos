@@ -5,16 +5,11 @@
 
 ## :zap: **Conhecimentos e Habilidades**
 
-<img src = "https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" /> <img src = "https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
-
-<img src = "https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white" />
+<img src = "https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" /> <img src = "https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" /> <img src = "https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white" />
 
 :books: **Automacão de Testes Web e Mobile**
  
-<img src = "https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" />  <img src = "https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=white" />
-
-<img src = "https://img.shields.io/badge/-Appium-663399" /> <img src = "https://img.shields.io/badge/-Android%20Studio-brightgreen?logo=android&logoColor=black" />
-<img src = "https://img.shields.io/badge/-JUnit-lightgrey" />
+<img src = "https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" />  <img src = "https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=white" /> <img src = "https://img.shields.io/badge/-Appium-663399" /> <img src = "https://img.shields.io/badge/-Android%20Studio-brightgreen?logo=android&logoColor=black" /> <img src = "https://img.shields.io/badge/-JUnit-lightgrey" />
 
 :bulb: **Estudos com foco em Testes manuais e automatizados, por enquanto principalmente testes funcionais WEB e MOBILE**
  - Utilizando Eclipse para o desenvolvimento dos testes;
