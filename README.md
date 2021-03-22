@@ -13,7 +13,7 @@
  
 <img src = "https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" />  <img src = "https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=white" />
 
-<img src = "https://img.shields.io/badge/-Appium-663399" /> <img src = "https://img.shields.io/badge/-Android%20Studio-brightgreen?logo=androidstudio" />
+<img src = "https://img.shields.io/badge/-Appium-663399" /> <img src = "https://img.shields.io/badge/-Android%20Studio-brightgreen?logo=android" />
 <img src = "https://img.shields.io/badge/-JUnit-lightgrey" />
 
 :bulb: **Estudos com foco em Testes manuais e automatizados, por enquanto principalmente testes funcionais WEB e MOBILE**
