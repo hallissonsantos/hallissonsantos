@@ -1,6 +1,8 @@
 #  :wave: Olá, eu sou o Hallisson
 :man_student:Bacharel em Sistemas de Infomação, amante de tecnologia e QA.
- -**Este perfil contém alguns repositórios de projetos pessoais e estudos antigos de automação de testes com JAVA/SELENIUM, porém atualmente trabalho com Cypress.**
+
+**Este perfil contém alguns repositórios de projetos pessoais e estudos antigos de automação de testes com JAVA/SELENIUM, porém atualmente trabalho com Cypress.**
+
 :man_technologist: **Constantemente estou estudando Testes de Software (Manuais e Automatizados) para aprimorar minhas habilidades.**
 
 ## :zap: **Conhecimentos e Habilidades**
@@ -23,25 +25,3 @@
 
 ### :inbox_tray: Onde me encontrar:
 <a href="https://www.linkedin.com/in/hallissonerick/"/> <img src = "https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" />  <a href="mailto:hallissonerick1595@gmail.com"/> <img src = "https://img.shields.io/badge/-Envie%20um%20Email-red?logo=gmail&logoColor=white" />
-
-
-
-
-
-
-
-
-<!--
-**hallissonsantos/hallissonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
