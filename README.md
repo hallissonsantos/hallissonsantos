@@ -1,7 +1,7 @@
 #  :wave: Olá, eu sou o Hallisson
-:man_student:Bacharel em Sistemas de Infomação, amante de tecnologia e futuro QA.
-
-:man_technologist: **Atualmente estou estudando Testes de Software (Manuais e Automatizados)para obter novas oportunidades.**
+:man_student:Bacharel em Sistemas de Infomação, amante de tecnologia e QA.
+:man_student:Este perfil contém alguns repositórios de projetos pessoais e estudos antigos de automação de testes com JAVA/SELENIUM, porém atualmente trabalho com Cypress.
+:man_technologist: **Constantemente estou estudando Testes de Software (Manuais e Automatizados) para aprimorar minhas habilidades.**
 
 ## :zap: **Conhecimentos e Habilidades**
 
